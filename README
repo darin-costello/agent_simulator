@@ -1,0 +1,2 @@
+Ros Node
+Simulates multiple agents and obsticles in a 2D enviroment. Publish's both locations as april tag locations
